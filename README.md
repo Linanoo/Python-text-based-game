@@ -1,1 +1,2 @@
 # Python-text-based-game
+Developed a Python-based adventure game as part of the "Programming in Python" module. The game allows players to explore the world's major jungles, collect rare Philodendron plants, manage fuel resources, and navigate risks through mini-games. Implemented classes for player actions, locations, and inventory, including features like decision-making events and automated unit testing for backpack and game logic. Emphasis was placed on OOP principles, user interactivity, and gameplay progression logic.
